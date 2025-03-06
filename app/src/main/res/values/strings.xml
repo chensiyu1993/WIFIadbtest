@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WiFi ADB</string>
+    <string name="status_enabled">已启用</string>
+    <string name="status_disabled">已禁用</string>
+    <string name="status_error">出错</string>
+    <string name="status_checking">正在检查...</string>
+    <string name="restart_service">重启服务</string>
+    <string name="ip_address_label">IP 地址:</string>
+    <string name="port_label">端口:</string>
+    <string name="connect_command_label">连接命令:</string>
+    <string name="notification_title">WiFi ADB 正在运行</string>
+    <string name="notification_text">远程 ADB 调试已启用</string>
+    <string name="notification_channel_name">WiFi ADB 服务</string>
+    <string name="notification_channel_description">显示 WiFi ADB 服务的运行状态</string>
+</resources> 
